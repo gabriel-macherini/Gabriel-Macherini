@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Gabriel Macherni Quagli</h1>
+<h1 align="center">Hi there 👋! I'm Gabriel Macherni Quaglia</h1>
 
 <h3 align="center"><i>Biomedic reseacher and data scientist</i></h3>
 
